@@ -146,7 +146,7 @@ h1{
 	border-bottom: 1px dashed #232323;
 }
 .sp-layer{
-	color:#3e3d42;
+	color:#FFF;
 	font-size:28px;
 	/* font-family: 'Satisfy', cursive; */
 }
@@ -422,8 +422,12 @@ a:active{
 	padding:100px 0;
 	background: #ffc107;
 }
+.about-sec2 {
+	padding:100px 0;
+	background: #fff;
+}
 .info-section{
-	background: #ffc107;
+	background: #fFF;
 	padding: 80px 0;
 }
 .info-section h4{
@@ -530,8 +534,8 @@ section#services {
 .service-box {
 	padding: 25px;
 	margin-bottom: 30px;
-	background-image: url(../images/Fondo\ amarillo-207033.png);
-	background: ffc107;
+	background-image: url();
+	background: #ffF;
 	position: relative;
 	overflow: hidden;
 	border-radius: 10px 0px 10px 10px;
@@ -565,7 +569,7 @@ section#services {
 .section-header h2{
 	font-weight: 700;
 	font-size: 48px;
-	color: #232323;
+	color: #FFC107;
 	border-top: none;
 	border-bottom: none;
 	padding: 8px 10px;
@@ -1150,7 +1154,7 @@ header.page-header .main-menu.minified{
 
 #team {
     padding: 100px 0;
-    background: #232323;
+    background: #fff;
 }
 .teams-section{
 	position: relative;
@@ -1174,7 +1178,7 @@ header.page-header .main-menu.minified{
 }
 
 .teams-section p{
-    color: #ffffff;
+    color: #3E3D42;
 }
 
 
@@ -1187,7 +1191,7 @@ header.page-header .main-menu.minified{
 	margin-top: 15px;
 	width: 200px;
 	height: 200px;
-	border: 2px solid #fff;
+ /*	border: 2px solid #fff;*/
 }
 .bg-video-wrapper{
 	overflow: hidden;
