@@ -10,7 +10,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #4a4a4a;
+  color: #FFF;
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -1808,7 +1808,7 @@ header.page-header .main-menu.minified{
 	color: #111 !important;
 }
 .contact-details ul li {
-	color: #F00 !important;
+	color: #FFC107 !important;
 	padding-top: 0;
 }
 .contact-details i {
@@ -1840,7 +1840,7 @@ header.page-header .main-menu.minified{
 
 .contact-section .contact-form .input-fields input[type='submit']:hover{
 	color: #ffffff;
-	background-color: #de5c39;
+	background-color: #FFC107;
 }
 
 .preloader {
