@@ -14,6 +14,8 @@ body {
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  
+  
 }
 .jumbotron-fluid{
 	padding: 400px 100px 100px 100px;
@@ -156,9 +158,12 @@ h1{
 	transform: rotate(45deg);
 	border-bottom: 1px dashed #232323;
 }
+.row{
+	margin-top: 30px;
+}
 
 .sp-layer{
-	color:#FFF;
+	color: grey;
 	font-size:28px;
 	/* font-family: 'Satisfy', cursive; */
 }
@@ -433,7 +438,7 @@ a:active{
 }
 .about-sec {
 	padding:100px 0;
-	background: #ffc107;
+	background: #FFF;
 }
 .about-sec2 {
 	padding:100px 0;
@@ -745,7 +750,7 @@ header.page-header .main-menu{
 
  
 .main-menu.minified{
-	background-color: #232323;
+	background-color: #FFF;
 	padding: 0;
 	position: fixed;
 	border: none;
@@ -1857,7 +1862,7 @@ header.page-header .main-menu.minified{
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(../images/preloader.gif);
+    background-image: url(../images/loader.gif);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
