@@ -10,7 +10,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #FFF;
+  color: #4a4a4a;
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -2005,7 +2005,7 @@ footer ul li a i{
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
  
   .main-menu.minified {
-    background-color: #28292e;
+    background-color: #FFF;
     padding: 20px 0 0;
     position: fixed;
   }
@@ -2049,7 +2049,7 @@ footer ul li a i{
 @media only screen and (min-width: 768px) and (max-width: 991px) {
  
   .main-menu.minified {
-    background-color: #28292e;
+    background-color: #FFF;
     padding: 20px 0 0;
     position: fixed;
   }
@@ -2209,7 +2209,7 @@ footer ul li a i{
   }
  
 .main-slides h1.slider-text-big {
-  color: #ffffff;
+  color: #FFC107;
   font-size: 50px;
   margin-bottom: 25px;
   margin-top: 0;
@@ -2219,7 +2219,7 @@ footer ul li a i{
  }
 
 .main-slides p {
-  color: #ffffff;
+  color: #3E3D42;
   
   font-size: 18px !important;
   font-weight: 400;
