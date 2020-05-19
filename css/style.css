@@ -128,7 +128,7 @@ header.page-header{
 h1,h2,h3,h4,h5,h6{ 
     /* font-weight: 700; */
     line-height: 1.2;
-    margin-top: 0;
+    margin-top: 50px;
     margin-bottom: 15px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -161,7 +161,7 @@ h1{
 	border-bottom: 1px dashed #232323;
 }
 .row{
-	margin-top: 30px;
+	margin-top: 0px;
 }
 
 .sp-layer{
@@ -201,7 +201,7 @@ a,p,li,input,textarea{
     -moz-osx-font-smoothing: grayscale;
 }
 p {
-	color: #333;
+	color:  #999;
 	font-size: 14px;
 }
 
@@ -440,7 +440,8 @@ a:active{
 }
 .about-sec {
 
-	padding:100px 0;
+	padding:10px 0;
+	margin-bottom: 70px;
 	background: #FFF;
 }
 .about-sec2 {
@@ -584,7 +585,7 @@ section#services {
 
 .section-header{
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 .section-header h1{
@@ -1013,7 +1014,7 @@ header.page-header .main-menu.minified{
 .portfolio-items{
 	overflow: hidden;
 	height: 380px;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 	align-items: center;
 	
 	
