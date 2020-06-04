@@ -160,6 +160,11 @@ h1{
 	transform: rotate(45deg);
 	border-bottom: 1px dashed #232323;
 }
+
+
+
+
+
 .row{
 	margin-top: 0px;
 }
@@ -445,18 +450,15 @@ a:active{
 	background: #FFF;
 }
 .about-sec2 {
-	padding:100px 0;
+	padding:0px 0;
 	background: #fff;
 }
 .info-section{
 	/*background: #FFC107;*/
-	background-image: url(../images/meaning/desafio.jpg);
-	padding: 80px 0;
+	padding: 50px 0;
 }
 .info-section2{
-	
-
-	padding: 80px 0;
+	padding: 50px 0;
 }
 
 .info-section h4{
@@ -1162,7 +1164,7 @@ header.page-header .main-menu.minified{
 }
 .clients-section{
 	background: #f3f3f3;
-	padding: 100px 0 80px;
+	padding: 50px 0;
 }
 .client-item-wrapper {
     background: #ffffff;
@@ -1205,7 +1207,7 @@ header.page-header .main-menu.minified{
 } 
 
 #team {
-    padding: 100px 0;
+    padding: 50px 0;
     background: #fff;
 }
 .teams-section{
@@ -1590,7 +1592,7 @@ header.page-header .main-menu.minified{
     color: #a0bd31;
 }
 .menus.style3{
-	padding-top: 110px;
+	padding-top: 50px;
 	background-image:;
 }
 .menus.style3 .section-title{
